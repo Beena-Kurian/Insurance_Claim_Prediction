@@ -5,7 +5,9 @@ This project applies machine learning techniques to predict insurance charges an
 📂 Project Structure
 
 Insurance_Claim_Prediction/
+
 │── insurance.csv              # Dataset
+
 │── Insurance_Claim_Prediction.ipynb  # Main Jupyter Notebook
 │── README.md                  # Project Documentation
 │── requirements.txt           # Required dependencies
