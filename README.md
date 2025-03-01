@@ -4,8 +4,11 @@ This project applies machine learning techniques to predict insurance charges an
 
 🔍 Key Features
 ✔ Predicts Insurance Charges using Random Forest Regression
+
 ✔ Performs Clustering (K-Means) on BMI & Charges to segment risk groups
+
 ✔ Elbow Method to determine the optimal number of clusters
+
 ✔ Tkinter GUI for real-time predictions
 
 📊 Machine Learning Models Used
